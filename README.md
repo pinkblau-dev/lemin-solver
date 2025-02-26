@@ -16,6 +16,9 @@ This tool is for educational purposes only.
 
 **Contact:** telegram: https://t.me/pinkblau
 
+### Videos
+https://t.me/toolsocial/51
+
 ### Images
 ## Task Process
 ![image](https://github.com/user-attachments/assets/7baa1300-aa5f-40a3-8191-505b47c5b6e1)
